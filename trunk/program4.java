@@ -1,3 +1,4 @@
+// komentarz
 import java.util.*;
  
 public class MergerSort 
