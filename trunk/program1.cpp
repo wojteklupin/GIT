@@ -14,7 +14,7 @@ char c;
 void
 Start ()
 {
-     i = 0;
+     i = 0; // komentarz
      j = 0;
      life = 0;
      maxrand = 6;
