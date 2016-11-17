@@ -1,3 +1,4 @@
+// mastter
 public class Select {
  
 private static int tablica[];
