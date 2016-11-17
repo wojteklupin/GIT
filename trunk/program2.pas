@@ -4,7 +4,11 @@ VAR X,Y,C,ILOSC:INTEGER;
 ODP:CHAR;
 KONIEC:BOOLEAN;
 BEGIN
+<<<<<<< HEAD
 writeln('master');
+=======
+writeln('GRA');
+>>>>>>> galaz
 REPEAT;
     CLRSCR;
         RANDOMIZE;

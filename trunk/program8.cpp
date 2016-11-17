@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // master
+=======
+// galaz
+>>>>>>> galaz
 #include<iostream>
 using namespace std;
  

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // master
+=======
+// komentarz
+>>>>>>> galaz
 import java.util.*;
  
 public class MergerSort 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // master
+=======
+// galaz
+>>>>>>> galaz
 public class Insert {
  
  

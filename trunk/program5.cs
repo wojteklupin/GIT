@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // master
+=======
+// komentarz
+>>>>>>> galaz
 using System;
 using System.Collections.Generic;
 using System.Linq;

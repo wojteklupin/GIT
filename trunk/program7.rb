@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # master
+=======
+# galaz
+>>>>>>> galaz
 class InsertionSort
  
 def sort(arr)

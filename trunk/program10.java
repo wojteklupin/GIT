@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // mastter
+=======
+// galaz
+>>>>>>> galaz
 public class Select {
  
 private static int tablica[];
