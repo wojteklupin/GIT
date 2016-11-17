@@ -1,3 +1,4 @@
+// komentarz
 import java.util.Scanner;
  
 public class bubble {
