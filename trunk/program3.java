@@ -1,7 +1,8 @@
+// master
 import java.util.Scanner;
- 
+
 public class bubble {
- 
+
 private static void b_sort(int tab[]){
 int temp;
 int zmiana = 1;
@@ -20,13 +21,13 @@ for(int i=0; i<tab.length; i++){
 System.out.print(tab[i]+" ");
 }
 }
- 
+
 public static void main(String[] args) {
 int ilosc;
 Scanner in = new Scanner(System.in);
 System.out.println("Podaj iloœæ elementów tablicy");
 ilosc = in.nextInt();
- 
+
 int[] tab = new int[ilosc];
 for(int i=0; i<tab.length; i++){
 System.out.println("Podaj element tablicy:");
