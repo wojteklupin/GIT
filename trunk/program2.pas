@@ -4,6 +4,7 @@ VAR X,Y,C,ILOSC:INTEGER;
 ODP:CHAR;
 KONIEC:BOOLEAN;
 BEGIN
+writeln('master');
 REPEAT;
     CLRSCR;
         RANDOMIZE;
