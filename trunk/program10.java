@@ -8,7 +8,7 @@ public class Select {
 private static int tablica[];
 private static int ile_liczb;
  
-private static void selectionsort(int tablica[], int ile_liczb) {
+private static void selectionSort(int tablica[], int ile_liczb) {
 int min,i,j,temp;
  
 for (i=0;i<ile_liczb-1;i++)  {
@@ -36,7 +36,7 @@ tablica[i] = Console.readInt("Wprowadz liczbe #" + (i+1));
 System.out.println("Tablica przed posortowaniem:");
 for(i=0; i<ile_liczb; i++)
 System.out.println(tablica[i]);
-selectionsort(tablica,ile_liczb);
+selectionSort(tablica,ile_liczb);
 System.out.println("Tablica po posortowaniu:");
 for(i=0; i<ile_liczb; i++)
 System.out.println(tablica[i]);
