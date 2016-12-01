@@ -1,5 +1,5 @@
 // komentarz
-import java.util.Scanner;
+import java.util.Scanner; // b¹belkowy
  
 public class bubble {
  
