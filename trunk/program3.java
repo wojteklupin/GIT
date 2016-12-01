@@ -3,7 +3,7 @@
 =======
 // komentarz
 >>>>>>> galaz
-import java.util.Scanner;
+import java.util.Scanner; // u¿ycei klasy Scanner
 
 public class bubble {
 
