@@ -5,7 +5,7 @@
 >>>>>>> galaz
 import java.util.*;
  
-public class MergerSort 
+public class MergerSort // MergeSort
 {
     public static void main(String[] args) 
     {
