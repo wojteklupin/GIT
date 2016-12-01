@@ -39,6 +39,6 @@ System.out.println(tablica[i]);
 selectionSort(tablica,ile_liczb);
 System.out.println("Tablica po posortowaniu:");
 for(i=0; i<ile_liczb; i++)
-System.out.println(tablica[i]);
+System.out.println(tablica[i]); // dluga komenda
 }
 }
