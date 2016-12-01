@@ -4,7 +4,7 @@
 // galaz
 >>>>>>> galaz
 #include<iostream>
-using namespace std;
+using namespace std; //to program8
  
 int main()
 {
