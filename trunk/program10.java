@@ -5,7 +5,7 @@
 >>>>>>> galaz
 public class Select {
  
-private static int tablica[];
+private static int tablica[]; // statyczna tablica
 private static int ile_liczb;
  
 private static void selectionSort(int tablica[], int ile_liczb) {
