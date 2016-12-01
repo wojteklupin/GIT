@@ -12,7 +12,7 @@ using namespace std; // komentuj¹cy: Wojciech
 void Start ();
 void GetResults ();
 
-int  i, j, life, maxrand;
+int  i, j, life, maxrand; // master 1
 char c;
 
 
