@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-using namespace std;
+using namespace std; // komentuj¹cy: Wojciech
 
 void Start ();
 void GetResults ();
