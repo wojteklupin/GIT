@@ -3,7 +3,7 @@
 =======
 # galaz
 >>>>>>> galaz
-class InsertionSort
+class InsertionSort # master 2
  
 def sort(arr)
 size = arr.length
