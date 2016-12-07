@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 // master
-=======
-// galaz
->>>>>>> galaz
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
 
-using namespace std; // komentuj¹cy: Wojciech
+using namespace std; // program1 branch2
 
 void Start ();
 void GetResults ();

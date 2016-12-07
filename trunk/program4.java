@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 // master
-=======
-// komentarz
->>>>>>> galaz
 import java.util.*;
  
-public class MergerSort // MergeSort
+public class MergerSort // branch2 program4
 {
     public static void main(String[] args) 
     {

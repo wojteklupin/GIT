@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 // master
-=======
-// komentarz
->>>>>>> galaz
 import java.util.Scanner; // u¿ycei klasy Scanner
 
 public class bubble {
